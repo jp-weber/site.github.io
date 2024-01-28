@@ -1,7 +1,7 @@
 ---
 title: Introducing v1.2.7 of 2fast
 author: Jan Philipp Weber
-date: 2023-13-11 00:00:00 +0100
+date: 2023-11-13 00:00:00 +0100
 categories: [Release, 2fast]
 tags: [Release]
 pin: true
